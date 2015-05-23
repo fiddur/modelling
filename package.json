@@ -12,7 +12,7 @@
 	    "name": "Agustín Moyano"
 	},
 	"dependencies": {
-		"waterline": "balderdashy/waterline",
+		"waterline": "0.10.20",
 		"lodash": "*",
 		"express": "*",
 		"extend": "*"
